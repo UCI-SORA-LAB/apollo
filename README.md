@@ -1,26 +1,9 @@
 ![](docs/demo_guide/images/Apollo_logo.png)
 
-[![Build Status](http://180.76.142.62:8111/app/rest/builds/buildType:Apollo_Build/statusIcon)](http://180.76.142.62:8111/viewType.html?buildTypeId=Apollo_Build&guest=1)
-[![Simulation Status](https://azure.apollo.auto/dailybuildstatus.svg)](https://azure.apollo.auto/daily-build/public)
-
-```
-
-We choose to go to the moon in this decade and do the other things,
-
-not because they are easy, but because they are hard.
-
--- John F. Kennedy, 1962
-
-```
-
-The DOI for this repository is: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6909534.svg)](https://doi.org/10.5281/zenodo.6909534)
-
-
-Welcome to Apollo's GitHub page!
 
 [Apollo](http://apollo.auto) is a high performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles.
 
-For business and partnership, please visit [our website](http://apollo.auto).
+The DOI for this repository is: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6909534.svg)](https://doi.org/10.5281/zenodo.6909534)
 
 ## Table of Contents
 
