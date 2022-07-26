@@ -13,6 +13,9 @@ not because they are easy, but because they are hard.
 
 ```
 
+The DOI for this repository is: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6909534.svg)](https://doi.org/10.5281/zenodo.6909534)
+
+
 Welcome to Apollo's GitHub page!
 
 [Apollo](http://apollo.auto) is a high performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles.
